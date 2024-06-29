@@ -31,7 +31,7 @@ section {
 
 .link-button {
     text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
+    background-image: linear-gradient(#FA6956, #F7805E);
     padding: 8px 24px;
     border-radius: 8px;
     color: white;
